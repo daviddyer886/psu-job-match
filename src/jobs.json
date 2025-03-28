@@ -1,0 +1,28 @@
+
+[
+  {
+    "title": "Energy Analyst",
+    "department": "California Energy Commission",
+    "description": "Responsible for evaluating energy systems and policy impacts."
+  },
+  {
+    "title": "Environmental Scientist",
+    "department": "California EPA",
+    "description": "Conducts environmental impact assessments and prepares scientific reports."
+  },
+  {
+    "title": "Administrative Analyst",
+    "department": "Department of General Services",
+    "description": "Performs budget and operations analysis for state programs."
+  },
+  {
+    "title": "IT Specialist",
+    "department": "Office of Technology Services",
+    "description": "Provides tech support, software configuration, and network security services."
+  },
+  {
+    "title": "Public Health Educator",
+    "department": "California Department of Public Health",
+    "description": "Develops health education programs and outreach materials."
+  }
+]
